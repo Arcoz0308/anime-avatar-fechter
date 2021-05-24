@@ -1,0 +1,1 @@
+this is a fun script that create a json file with all images (png and jpg) links of https://avatars.alphacoders.com/by_category/3
